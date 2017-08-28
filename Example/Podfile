@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SafechargePP_ios_sdk_Example' do
+  pod 'SafechargePP_ios_sdk', :path => '../'
+
+  target 'SafechargePP_ios_sdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
