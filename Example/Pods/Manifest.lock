@@ -1,0 +1,16 @@
+PODS:
+  - SafechargePP_ios_sdk (0.1.0)
+
+DEPENDENCIES:
+  - SafechargePP_ios_sdk (from `../`)
+
+EXTERNAL SOURCES:
+  SafechargePP_ios_sdk:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SafechargePP_ios_sdk: b96c5da3cdf2a862db95cc55f5885f816fccec6c
+
+PODFILE CHECKSUM: 8aac5f8d53fe739175c326a78ec41c436184e804
+
+COCOAPODS: 1.2.1

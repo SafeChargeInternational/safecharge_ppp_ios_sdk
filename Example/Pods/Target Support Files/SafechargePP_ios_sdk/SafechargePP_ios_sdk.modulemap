@@ -1,0 +1,6 @@
+framework module SafechargePP_ios_sdk {
+  umbrella header "SafechargePP_ios_sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
