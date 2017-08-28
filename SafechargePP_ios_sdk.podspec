@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SafechargePP_ios_sdk'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'iOS native framework which is used to integrate Safecharge Payment page.'
 
 # This description is used to generate tags and improve search results.

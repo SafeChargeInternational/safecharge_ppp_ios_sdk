@@ -7,15 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01269CC4F2C52CF3B7DD5FA023809153 /* SafechargePP_ios_sdk-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B7021BE00D4E7266BB3B60371ACCCD /* SafechargePP_ios_sdk-dummy.m */; };
 		0167A873FC94BBB4C193F52C50A70AAD /* Pods-SafechargePP_ios_sdk_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = ADC9A5E292753530381794239F606490 /* Pods-SafechargePP_ios_sdk_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3D47A910B08A07A0B461AE2E9E67D33A /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = A4F31670F571949D6004BEE13A52BB37 /* ReplaceMe.m */; };
+		084136D8A94FC7F0DA1FB23124265E91 /* SCHEventData.m in Sources */ = {isa = PBXBuildFile; fileRef = 2705FA2BD136E6718D40DC5FD686BDFF /* SCHEventData.m */; };
+		09EBBF3F801A97C65B90C665468F2BD4 /* SCHItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 286FE103AC40EC0BF78143CC45C14E76 /* SCHItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		118C134475A851441778CD6E0CA74CB4 /* SCHPaymentRequestBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = 48538795727D7DE46A77D1E00E9C1EE3 /* SCHPaymentRequestBuilder.m */; };
+		1614123673851C4CC389B83181E852F1 /* SCHPaymentData.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C068C8BC83BDC113D798F7B42B37FDB /* SCHPaymentData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		202629B039D1ABD7F620AF125347F711 /* SCHPaymentData.m in Sources */ = {isa = PBXBuildFile; fileRef = 870A60A027B841B8B93F8AE70D929BA4 /* SCHPaymentData.m */; };
+		28F29CAC54B530EA1B502699C2FEC795 /* SCHConfigurationData.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C64CAE3D3E4AF184FAA4B868106425B /* SCHConfigurationData.m */; };
+		347A6F7D2FBA1D608F7FCF6A564FB4C6 /* SCHItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B605DB0CE65551A50A236FACE7D65F7F /* SCHItem.m */; };
+		34F89741FCC4B5FF04A8698A81AC2F89 /* SCHConfigurationData.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E739962A6DF4519C46DEC37AC7C1D04 /* SCHConfigurationData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		46A4998509E928EEBEFED50B4CA08273 /* SCHPPResult.h in Headers */ = {isa = PBXBuildFile; fileRef = A8DA30BDF97F9B2BD3232B1BEF82BDB6 /* SCHPPResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4804D7E0ED94B55040F3AA7F09A6B73C /* SCHWebKitPaymentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A415E23A35F9F568ED3D39358C1EB1E /* SCHWebKitPaymentViewController.m */; };
+		4D3D6FD3C3AF8F9407C3D61A9E4B7D83 /* SafechargePP_ios_sdk-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 89D1A099CE025A71CD12E5DF01D4FD2E /* SafechargePP_ios_sdk-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4DDEB276566DA184358F5A2BA8D1A17B /* SCHValidatable.m in Sources */ = {isa = PBXBuildFile; fileRef = 886FD418E1FDE91FD1BA429358628EED /* SCHValidatable.m */; };
 		52B1B209163BA92EA8F61E28AD698D9B /* Pods-SafechargePP_ios_sdk_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E23DFC335AD921254BDCFBC979B7A286 /* Pods-SafechargePP_ios_sdk_Example-dummy.m */; };
+		60FAABAFFBAD35F94645A125A6E66351 /* SCHLogging.h in Headers */ = {isa = PBXBuildFile; fileRef = 843A07590D0F45E1A745072223358E0E /* SCHLogging.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		662604A5B3DA7AC7B1841AFC6795DFEE /* SCHBasePaymentWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 56C6F6E770CD1FE7C88424F8ECB48E7F /* SCHBasePaymentWebView.m */; };
+		6694803384B39DF8B589700693188B55 /* SCHWebKitWithdrawViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A11D6E5F58C56F149157EC92C124D3C /* SCHWebKitWithdrawViewController.m */; };
+		69EBCA283E6E3E8A43A1F0B31404720D /* SCHConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 8492BD581D737A640733B56FA014F644 /* SCHConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		69F393F44B5F289EA82F94C0D5E6ABD2 /* SCHExceptionHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 217654132BE533A975551775EE574448 /* SCHExceptionHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6BD776C7E4F2D9E9400BB69C33B2A271 /* SCHEventData.h in Headers */ = {isa = PBXBuildFile; fileRef = 5741F3A6BD69121BC34DEB305BE4BBA8 /* SCHEventData.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6D928B5BE095D0EADB1BE3439FB6884D /* Pods-SafechargePP_ios_sdk_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF735FB662742D3BA8F46A39234FC22 /* Pods-SafechargePP_ios_sdk_Tests-dummy.m */; };
-		A12112C32C959E33DF5C4663999D3807 /* SafechargePP_ios_sdk-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 89D1A099CE025A71CD12E5DF01D4FD2E /* SafechargePP_ios_sdk-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6F8D3E80DBEBB053B8C033620EC17255 /* SCHApplePayment.m in Sources */ = {isa = PBXBuildFile; fileRef = 4589DDA2D39B381F219FA8DE03F95F1D /* SCHApplePayment.m */; };
+		77DC6E087E8463A171713789A83B1687 /* Enums.m in Sources */ = {isa = PBXBuildFile; fileRef = B843724A8948AA918B60F8175E666AE3 /* Enums.m */; };
+		8A54CE6C84EF11424C610BCF3E9FB473 /* SCHConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 44757AD377AA6A7219AC3006F9C1512D /* SCHConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8AE77BE660157D09E76A6E03D9EF89F2 /* SCHWithdrawRequestBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = C5C910EF76018A4F3443EFA47D69815C /* SCHWithdrawRequestBuilder.m */; };
+		8B7AB310852238586197161FA915DFB6 /* SCHJsFunction.h in Headers */ = {isa = PBXBuildFile; fileRef = 433D69520256467038872D246B449DC3 /* SCHJsFunction.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9689AD50718C59B564B3C1438F0AFE7E /* SCHConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B0D2A67208CFBC3D2E3C136C8C2DD3A /* SCHConfiguration.m */; };
 		A5757215EE7D9E3FA8D80178141F9BFE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		AB16884E7FE92C91C3C9A0FF8BD4CB94 /* SafechargePP_ios_sdk-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B7021BE00D4E7266BB3B60371ACCCD /* SafechargePP_ios_sdk-dummy.m */; };
+		A880F8E183BB08842FD3E51DB436DAFD /* Enums.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D4727589619D9FE8EB3C090F19199D7 /* Enums.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A92DA5E498FD981ABB1D1754A5E5CBAD /* SCHPaymentRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = A550D1936633FA624E330C23243645DD /* SCHPaymentRequestBuilder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AC7CE95AF3E6DB3569E509772D29EBFB /* SCHBasePaymentWebView.h in Headers */ = {isa = PBXBuildFile; fileRef = B172E81A2DE7CBBD4B75133BE4948EEA /* SCHBasePaymentWebView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B497385105BE09AA12848A0E251F77FE /* SCHPaymentPageProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 031F26B22EA2355D823060CC8EDA2DAA /* SCHPaymentPageProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B7FD534EE8E6F48DBDD80121A45513D7 /* SCHJsFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = A7233D3BADF1E9DD9D581988090464FF /* SCHJsFunction.m */; };
 		B82E69EE48E9338813FFA6E90FE8E210 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		BFF6591EA11A05AA8EDB08764A944F80 /* SCHWithdrawRequestBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = B6F1A2390E0A8774F21AEF5E87356116 /* SCHWithdrawRequestBuilder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C1D9323D2321C645BDF64895897A58B5 /* SCHApplePayment.h in Headers */ = {isa = PBXBuildFile; fileRef = B46714AB4B118134EC11D7AA50802BDC /* SCHApplePayment.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C22B412D6387D21375E0263410C7D2CF /* Pods-SafechargePP_ios_sdk_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FDAE117ADCE807659DC42791F5D2F6E1 /* Pods-SafechargePP_ios_sdk_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C30FCED667AC2A0FDCE9D9134DDD7DBF /* RequestBuilderHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 436D1B2216A7F1D3EA56B7C015D710B8 /* RequestBuilderHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C7DF881FB797301BD0BF543169396CCD /* SCHValidatable.h in Headers */ = {isa = PBXBuildFile; fileRef = E3790FC7D382214E57418FD2D87C04F5 /* SCHValidatable.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CA1A9AE56E53F877AF75990CE12DBDEF /* SafechargePP.h in Headers */ = {isa = PBXBuildFile; fileRef = FD64BE1E4AECED54CE904E78BB45DA3E /* SafechargePP.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D1B3745545651C9B7C0D44CBFB4C1D64 /* RequestBuilderHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = FD1FEF2A90A53B73D19DC0B5F13621A0 /* RequestBuilderHelper.m */; };
+		D3CE38C7C13185E2C187EE3794F42AB6 /* SCHWebKitWithdrawViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B05C51836BB73D1C644C5013769AD2F /* SCHWebKitWithdrawViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D7AF00255EACC31E3EB4C80E8B1A39C0 /* SCHWithdrawalPageProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = F6F38FE7170FB6D24EB73A47207DD384 /* SCHWithdrawalPageProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D81CE97CC4A4D80F3B1FD464ADF23151 /* SCHWebKitPaymentViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 91EA6D907816D55094F2DE08EA73968A /* SCHWebKitPaymentViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D8682A353EAE3D09D796281458B10AF0 /* SCHPPResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AFB9C9765F2912B08BFBBF7C11802D6 /* SCHPPResult.m */; };
+		DD4695A0CC78DE5DA7549694C5E54D89 /* SCHExceptionHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = DE6C9D9A3D9A5FAB2B185A85DB41DB88 /* SCHExceptionHelper.m */; };
 		E523A202595B8E2CB01687CE4B8A4AB1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,37 +68,75 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		031F26B22EA2355D823060CC8EDA2DAA /* SCHPaymentPageProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHPaymentPageProtocol.h; sourceTree = "<group>"; };
+		0C068C8BC83BDC113D798F7B42B37FDB /* SCHPaymentData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHPaymentData.h; sourceTree = "<group>"; };
+		0C64CAE3D3E4AF184FAA4B868106425B /* SCHConfigurationData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHConfigurationData.m; sourceTree = "<group>"; };
 		16C533BD170FC9F01E9023DC61EC0984 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A11D6E5F58C56F149157EC92C124D3C /* SCHWebKitWithdrawViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHWebKitWithdrawViewController.m; sourceTree = "<group>"; };
 		1F636729AD57F22CD82C4635FACF62AE /* Pods_SafechargePP_ios_sdk_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SafechargePP_ios_sdk_Tests.framework; path = "Pods-SafechargePP_ios_sdk_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		217654132BE533A975551775EE574448 /* SCHExceptionHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHExceptionHelper.h; sourceTree = "<group>"; };
 		21B7021BE00D4E7266BB3B60371ACCCD /* SafechargePP_ios_sdk-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SafechargePP_ios_sdk-dummy.m"; sourceTree = "<group>"; };
+		2705FA2BD136E6718D40DC5FD686BDFF /* SCHEventData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHEventData.m; sourceTree = "<group>"; };
+		286FE103AC40EC0BF78143CC45C14E76 /* SCHItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHItem.h; sourceTree = "<group>"; };
 		2B43149E62BB73FB6755976ED6C5FF43 /* Pods-SafechargePP_ios_sdk_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SafechargePP_ios_sdk_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2BD61AA96080EBF0D1E0D6A210A45C11 /* Pods-SafechargePP_ios_sdk_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SafechargePP_ios_sdk_Tests-resources.sh"; sourceTree = "<group>"; };
 		3AE824DED21A5D96D5989DF9AB9EC6A1 /* SafechargePP_ios_sdk.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SafechargePP_ios_sdk.modulemap; sourceTree = "<group>"; };
 		3B7208E89DD44235CCA2B02C6B7A9E68 /* Pods-SafechargePP_ios_sdk_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SafechargePP_ios_sdk_Example-resources.sh"; sourceTree = "<group>"; };
 		3D645D85E4CEF27D3874A2A95CD8D104 /* Pods-SafechargePP_ios_sdk_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SafechargePP_ios_sdk_Example.modulemap"; sourceTree = "<group>"; };
+		433D69520256467038872D246B449DC3 /* SCHJsFunction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHJsFunction.h; sourceTree = "<group>"; };
+		436D1B2216A7F1D3EA56B7C015D710B8 /* RequestBuilderHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RequestBuilderHelper.h; sourceTree = "<group>"; };
+		44757AD377AA6A7219AC3006F9C1512D /* SCHConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHConstants.h; sourceTree = "<group>"; };
+		4589DDA2D39B381F219FA8DE03F95F1D /* SCHApplePayment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHApplePayment.m; sourceTree = "<group>"; };
+		48538795727D7DE46A77D1E00E9C1EE3 /* SCHPaymentRequestBuilder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHPaymentRequestBuilder.m; sourceTree = "<group>"; };
+		56C6F6E770CD1FE7C88424F8ECB48E7F /* SCHBasePaymentWebView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHBasePaymentWebView.m; sourceTree = "<group>"; };
+		5741F3A6BD69121BC34DEB305BE4BBA8 /* SCHEventData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHEventData.h; sourceTree = "<group>"; };
 		58897C3A992235D6AA9C53C5D73B169F /* SafechargePP_ios_sdk-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SafechargePP_ios_sdk-prefix.pch"; sourceTree = "<group>"; };
 		59333A88F7628CF36F124BD4F8690FAA /* SafechargePP_ios_sdk.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SafechargePP_ios_sdk.framework; path = SafechargePP_ios_sdk.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AFB9C9765F2912B08BFBBF7C11802D6 /* SCHPPResult.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHPPResult.m; sourceTree = "<group>"; };
 		63122CBCF02276B5A95EB69CC7F04EBC /* Pods-SafechargePP_ios_sdk_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SafechargePP_ios_sdk_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		6A415E23A35F9F568ED3D39358C1EB1E /* SCHWebKitPaymentViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHWebKitPaymentViewController.m; sourceTree = "<group>"; };
+		6B05C51836BB73D1C644C5013769AD2F /* SCHWebKitWithdrawViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHWebKitWithdrawViewController.h; sourceTree = "<group>"; };
 		74E0C637AECD566FE6D58E8E61648301 /* SafechargePP_ios_sdk.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SafechargePP_ios_sdk.xcconfig; sourceTree = "<group>"; };
 		77592DBEC431A15571B57CBA37DB0D2B /* Pods-SafechargePP_ios_sdk_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SafechargePP_ios_sdk_Example-frameworks.sh"; sourceTree = "<group>"; };
+		7B0D2A67208CFBC3D2E3C136C8C2DD3A /* SCHConfiguration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHConfiguration.m; sourceTree = "<group>"; };
+		7E739962A6DF4519C46DEC37AC7C1D04 /* SCHConfigurationData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHConfigurationData.h; sourceTree = "<group>"; };
+		843A07590D0F45E1A745072223358E0E /* SCHLogging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHLogging.h; sourceTree = "<group>"; };
+		8492BD581D737A640733B56FA014F644 /* SCHConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHConfiguration.h; sourceTree = "<group>"; };
+		870A60A027B841B8B93F8AE70D929BA4 /* SCHPaymentData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHPaymentData.m; sourceTree = "<group>"; };
 		88357C9092F43B3109DF1B29886C5C5F /* Pods-SafechargePP_ios_sdk_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SafechargePP_ios_sdk_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		886FD418E1FDE91FD1BA429358628EED /* SCHValidatable.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHValidatable.m; sourceTree = "<group>"; };
 		89D1A099CE025A71CD12E5DF01D4FD2E /* SafechargePP_ios_sdk-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SafechargePP_ios_sdk-umbrella.h"; sourceTree = "<group>"; };
 		8BE03AB9D07EF8E6F0882BD131E6FD5A /* Pods-SafechargePP_ios_sdk_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafechargePP_ios_sdk_Example.release.xcconfig"; sourceTree = "<group>"; };
+		8D4727589619D9FE8EB3C090F19199D7 /* Enums.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Enums.h; sourceTree = "<group>"; };
+		91EA6D907816D55094F2DE08EA73968A /* SCHWebKitPaymentViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHWebKitPaymentViewController.h; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A4F31670F571949D6004BEE13A52BB37 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
+		A550D1936633FA624E330C23243645DD /* SCHPaymentRequestBuilder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHPaymentRequestBuilder.h; sourceTree = "<group>"; };
+		A7233D3BADF1E9DD9D581988090464FF /* SCHJsFunction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHJsFunction.m; sourceTree = "<group>"; };
+		A8DA30BDF97F9B2BD3232B1BEF82BDB6 /* SCHPPResult.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHPPResult.h; sourceTree = "<group>"; };
 		ABE1DA48B860627A96602067B2203060 /* Pods-SafechargePP_ios_sdk_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SafechargePP_ios_sdk_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		ADC9A5E292753530381794239F606490 /* Pods-SafechargePP_ios_sdk_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SafechargePP_ios_sdk_Example-umbrella.h"; sourceTree = "<group>"; };
+		B172E81A2DE7CBBD4B75133BE4948EEA /* SCHBasePaymentWebView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHBasePaymentWebView.h; sourceTree = "<group>"; };
+		B46714AB4B118134EC11D7AA50802BDC /* SCHApplePayment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHApplePayment.h; sourceTree = "<group>"; };
+		B605DB0CE65551A50A236FACE7D65F7F /* SCHItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHItem.m; sourceTree = "<group>"; };
+		B6F1A2390E0A8774F21AEF5E87356116 /* SCHWithdrawRequestBuilder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHWithdrawRequestBuilder.h; sourceTree = "<group>"; };
+		B843724A8948AA918B60F8175E666AE3 /* Enums.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Enums.m; sourceTree = "<group>"; };
 		BA1E98CEA4E5A41C7735DE51ABCC2FE2 /* Pods-SafechargePP_ios_sdk_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafechargePP_ios_sdk_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BB47ECC51A80B231599E5802C56DFA0E /* Pods-SafechargePP_ios_sdk_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SafechargePP_ios_sdk_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		C5C910EF76018A4F3443EFA47D69815C /* SCHWithdrawRequestBuilder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHWithdrawRequestBuilder.m; sourceTree = "<group>"; };
 		D6B5AA88FB3289C1ADF66F528B7BA1D8 /* Pods-SafechargePP_ios_sdk_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafechargePP_ios_sdk_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D89F889739EEF2C874CC3861129183BB /* Pods-SafechargePP_ios_sdk_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SafechargePP_ios_sdk_Tests.modulemap"; sourceTree = "<group>"; };
 		DC1868E3607B46A0833F55650924EB83 /* Pods-SafechargePP_ios_sdk_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SafechargePP_ios_sdk_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DDA59D457496FA4C0DED3239114D5F42 /* Pods_SafechargePP_ios_sdk_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SafechargePP_ios_sdk_Example.framework; path = "Pods-SafechargePP_ios_sdk_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE6C9D9A3D9A5FAB2B185A85DB41DB88 /* SCHExceptionHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SCHExceptionHelper.m; sourceTree = "<group>"; };
 		E23DFC335AD921254BDCFBC979B7A286 /* Pods-SafechargePP_ios_sdk_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SafechargePP_ios_sdk_Example-dummy.m"; sourceTree = "<group>"; };
+		E3790FC7D382214E57418FD2D87C04F5 /* SCHValidatable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHValidatable.h; sourceTree = "<group>"; };
 		EAF735FB662742D3BA8F46A39234FC22 /* Pods-SafechargePP_ios_sdk_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SafechargePP_ios_sdk_Tests-dummy.m"; sourceTree = "<group>"; };
 		EC72D4279BC1EA43726784576876DF7F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFBEC8C421B5A0962A511120055490BB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6F38FE7170FB6D24EB73A47207DD384 /* SCHWithdrawalPageProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SCHWithdrawalPageProtocol.h; sourceTree = "<group>"; };
+		FD1FEF2A90A53B73D19DC0B5F13621A0 /* RequestBuilderHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = RequestBuilderHelper.m; sourceTree = "<group>"; };
+		FD64BE1E4AECED54CE904E78BB45DA3E /* SafechargePP.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SafechargePP.h; sourceTree = "<group>"; };
 		FDAE117ADCE807659DC42791F5D2F6E1 /* Pods-SafechargePP_ios_sdk_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SafechargePP_ios_sdk_Tests-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,7 +171,7 @@
 		21D685D6EEE1D5450F038580CCCA515D /* SafechargePP_ios_sdk */ = {
 			isa = PBXGroup;
 			children = (
-				D06DE15595C7319642DB7F17F6CE61B4 /* SafechargePP_ios_sdk */,
+				A9E294698A2F9D6CEDF4A99812BC33E1 /* SafechargePP_ios_sdk */,
 				62B392303F4FAAFA1CD5D543EDAFEA9C /* Support Files */,
 			);
 			name = SafechargePP_ios_sdk;
@@ -151,6 +227,53 @@
 			path = "Example/Pods/Target Support Files/SafechargePP_ios_sdk";
 			sourceTree = "<group>";
 		};
+		74243EC39EAB60127C66FE1D955D0320 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8D4727589619D9FE8EB3C090F19199D7 /* Enums.h */,
+				B843724A8948AA918B60F8175E666AE3 /* Enums.m */,
+				436D1B2216A7F1D3EA56B7C015D710B8 /* RequestBuilderHelper.h */,
+				FD1FEF2A90A53B73D19DC0B5F13621A0 /* RequestBuilderHelper.m */,
+				FD64BE1E4AECED54CE904E78BB45DA3E /* SafechargePP.h */,
+				B46714AB4B118134EC11D7AA50802BDC /* SCHApplePayment.h */,
+				4589DDA2D39B381F219FA8DE03F95F1D /* SCHApplePayment.m */,
+				B172E81A2DE7CBBD4B75133BE4948EEA /* SCHBasePaymentWebView.h */,
+				56C6F6E770CD1FE7C88424F8ECB48E7F /* SCHBasePaymentWebView.m */,
+				8492BD581D737A640733B56FA014F644 /* SCHConfiguration.h */,
+				7B0D2A67208CFBC3D2E3C136C8C2DD3A /* SCHConfiguration.m */,
+				7E739962A6DF4519C46DEC37AC7C1D04 /* SCHConfigurationData.h */,
+				0C64CAE3D3E4AF184FAA4B868106425B /* SCHConfigurationData.m */,
+				44757AD377AA6A7219AC3006F9C1512D /* SCHConstants.h */,
+				5741F3A6BD69121BC34DEB305BE4BBA8 /* SCHEventData.h */,
+				2705FA2BD136E6718D40DC5FD686BDFF /* SCHEventData.m */,
+				217654132BE533A975551775EE574448 /* SCHExceptionHelper.h */,
+				DE6C9D9A3D9A5FAB2B185A85DB41DB88 /* SCHExceptionHelper.m */,
+				286FE103AC40EC0BF78143CC45C14E76 /* SCHItem.h */,
+				B605DB0CE65551A50A236FACE7D65F7F /* SCHItem.m */,
+				433D69520256467038872D246B449DC3 /* SCHJsFunction.h */,
+				A7233D3BADF1E9DD9D581988090464FF /* SCHJsFunction.m */,
+				843A07590D0F45E1A745072223358E0E /* SCHLogging.h */,
+				0C068C8BC83BDC113D798F7B42B37FDB /* SCHPaymentData.h */,
+				870A60A027B841B8B93F8AE70D929BA4 /* SCHPaymentData.m */,
+				031F26B22EA2355D823060CC8EDA2DAA /* SCHPaymentPageProtocol.h */,
+				A550D1936633FA624E330C23243645DD /* SCHPaymentRequestBuilder.h */,
+				48538795727D7DE46A77D1E00E9C1EE3 /* SCHPaymentRequestBuilder.m */,
+				A8DA30BDF97F9B2BD3232B1BEF82BDB6 /* SCHPPResult.h */,
+				5AFB9C9765F2912B08BFBBF7C11802D6 /* SCHPPResult.m */,
+				E3790FC7D382214E57418FD2D87C04F5 /* SCHValidatable.h */,
+				886FD418E1FDE91FD1BA429358628EED /* SCHValidatable.m */,
+				91EA6D907816D55094F2DE08EA73968A /* SCHWebKitPaymentViewController.h */,
+				6A415E23A35F9F568ED3D39358C1EB1E /* SCHWebKitPaymentViewController.m */,
+				6B05C51836BB73D1C644C5013769AD2F /* SCHWebKitWithdrawViewController.h */,
+				1A11D6E5F58C56F149157EC92C124D3C /* SCHWebKitWithdrawViewController.m */,
+				F6F38FE7170FB6D24EB73A47207DD384 /* SCHWithdrawalPageProtocol.h */,
+				B6F1A2390E0A8774F21AEF5E87356116 /* SCHWithdrawRequestBuilder.h */,
+				C5C910EF76018A4F3443EFA47D69815C /* SCHWithdrawRequestBuilder.m */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		7A0506DB35FDABBCBFD4AECCFB45E591 /* Pods-SafechargePP_ios_sdk_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -180,13 +303,13 @@
 			);
 			sourceTree = "<group>";
 		};
-		7E9B65AD6F9BB586CAC89AABD4EABF77 /* Classes */ = {
+		A9E294698A2F9D6CEDF4A99812BC33E1 /* SafechargePP_ios_sdk */ = {
 			isa = PBXGroup;
 			children = (
-				A4F31670F571949D6004BEE13A52BB37 /* ReplaceMe.m */,
+				74243EC39EAB60127C66FE1D955D0320 /* Classes */,
 			);
-			name = Classes;
-			path = Classes;
+			name = SafechargePP_ios_sdk;
+			path = SafechargePP_ios_sdk;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -207,15 +330,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D06DE15595C7319642DB7F17F6CE61B4 /* SafechargePP_ios_sdk */ = {
-			isa = PBXGroup;
-			children = (
-				7E9B65AD6F9BB586CAC89AABD4EABF77 /* Classes */,
-			);
-			name = SafechargePP_ios_sdk;
-			path = SafechargePP_ios_sdk;
-			sourceTree = "<group>";
-		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -227,19 +341,41 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		9ECFC494389E4C1F73C9377A625B56F6 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A880F8E183BB08842FD3E51DB436DAFD /* Enums.h in Headers */,
+				C30FCED667AC2A0FDCE9D9134DDD7DBF /* RequestBuilderHelper.h in Headers */,
+				CA1A9AE56E53F877AF75990CE12DBDEF /* SafechargePP.h in Headers */,
+				4D3D6FD3C3AF8F9407C3D61A9E4B7D83 /* SafechargePP_ios_sdk-umbrella.h in Headers */,
+				C1D9323D2321C645BDF64895897A58B5 /* SCHApplePayment.h in Headers */,
+				AC7CE95AF3E6DB3569E509772D29EBFB /* SCHBasePaymentWebView.h in Headers */,
+				69EBCA283E6E3E8A43A1F0B31404720D /* SCHConfiguration.h in Headers */,
+				34F89741FCC4B5FF04A8698A81AC2F89 /* SCHConfigurationData.h in Headers */,
+				8A54CE6C84EF11424C610BCF3E9FB473 /* SCHConstants.h in Headers */,
+				6BD776C7E4F2D9E9400BB69C33B2A271 /* SCHEventData.h in Headers */,
+				69F393F44B5F289EA82F94C0D5E6ABD2 /* SCHExceptionHelper.h in Headers */,
+				09EBBF3F801A97C65B90C665468F2BD4 /* SCHItem.h in Headers */,
+				8B7AB310852238586197161FA915DFB6 /* SCHJsFunction.h in Headers */,
+				60FAABAFFBAD35F94645A125A6E66351 /* SCHLogging.h in Headers */,
+				1614123673851C4CC389B83181E852F1 /* SCHPaymentData.h in Headers */,
+				B497385105BE09AA12848A0E251F77FE /* SCHPaymentPageProtocol.h in Headers */,
+				A92DA5E498FD981ABB1D1754A5E5CBAD /* SCHPaymentRequestBuilder.h in Headers */,
+				46A4998509E928EEBEFED50B4CA08273 /* SCHPPResult.h in Headers */,
+				C7DF881FB797301BD0BF543169396CCD /* SCHValidatable.h in Headers */,
+				D81CE97CC4A4D80F3B1FD464ADF23151 /* SCHWebKitPaymentViewController.h in Headers */,
+				D3CE38C7C13185E2C187EE3794F42AB6 /* SCHWebKitWithdrawViewController.h in Headers */,
+				D7AF00255EACC31E3EB4C80E8B1A39C0 /* SCHWithdrawalPageProtocol.h in Headers */,
+				BFF6591EA11A05AA8EDB08764A944F80 /* SCHWithdrawRequestBuilder.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		AD0901A1027B2028BE45677A0F378A1E /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				C22B412D6387D21375E0263410C7D2CF /* Pods-SafechargePP_ios_sdk_Tests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C75ABE864EB636FA3A16CB79CE6AEE7D /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A12112C32C959E33DF5C4663999D3807 /* SafechargePP_ios_sdk-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +394,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B94EDDAEDE5B2E1256BCA462D919F265 /* Build configuration list for PBXNativeTarget "SafechargePP_ios_sdk" */;
 			buildPhases = (
-				474B48E91FA387394697D38029440E8A /* Sources */,
+				11ED26645178B1DFDE81BBF7AACB17EB /* Sources */,
 				421ABEAD3495355FDBD0C6881A91B588 /* Frameworks */,
-				C75ABE864EB636FA3A16CB79CE6AEE7D /* Headers */,
+				9ECFC494389E4C1F73C9377A625B56F6 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -335,12 +471,28 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		474B48E91FA387394697D38029440E8A /* Sources */ = {
+		11ED26645178B1DFDE81BBF7AACB17EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D47A910B08A07A0B461AE2E9E67D33A /* ReplaceMe.m in Sources */,
-				AB16884E7FE92C91C3C9A0FF8BD4CB94 /* SafechargePP_ios_sdk-dummy.m in Sources */,
+				77DC6E087E8463A171713789A83B1687 /* Enums.m in Sources */,
+				D1B3745545651C9B7C0D44CBFB4C1D64 /* RequestBuilderHelper.m in Sources */,
+				01269CC4F2C52CF3B7DD5FA023809153 /* SafechargePP_ios_sdk-dummy.m in Sources */,
+				6F8D3E80DBEBB053B8C033620EC17255 /* SCHApplePayment.m in Sources */,
+				662604A5B3DA7AC7B1841AFC6795DFEE /* SCHBasePaymentWebView.m in Sources */,
+				9689AD50718C59B564B3C1438F0AFE7E /* SCHConfiguration.m in Sources */,
+				28F29CAC54B530EA1B502699C2FEC795 /* SCHConfigurationData.m in Sources */,
+				084136D8A94FC7F0DA1FB23124265E91 /* SCHEventData.m in Sources */,
+				DD4695A0CC78DE5DA7549694C5E54D89 /* SCHExceptionHelper.m in Sources */,
+				347A6F7D2FBA1D608F7FCF6A564FB4C6 /* SCHItem.m in Sources */,
+				B7FD534EE8E6F48DBDD80121A45513D7 /* SCHJsFunction.m in Sources */,
+				202629B039D1ABD7F620AF125347F711 /* SCHPaymentData.m in Sources */,
+				118C134475A851441778CD6E0CA74CB4 /* SCHPaymentRequestBuilder.m in Sources */,
+				D8682A353EAE3D09D796281458B10AF0 /* SCHPPResult.m in Sources */,
+				4DDEB276566DA184358F5A2BA8D1A17B /* SCHValidatable.m in Sources */,
+				4804D7E0ED94B55040F3AA7F09A6B73C /* SCHWebKitPaymentViewController.m in Sources */,
+				6694803384B39DF8B589700693188B55 /* SCHWebKitWithdrawViewController.m in Sources */,
+				8AE77BE660157D09E76A6E03D9EF89F2 /* SCHWithdrawRequestBuilder.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

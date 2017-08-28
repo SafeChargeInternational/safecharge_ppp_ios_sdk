@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SafechargePP_ios_sdk: b96c5da3cdf2a862db95cc55f5885f816fccec6c
+  SafechargePP_ios_sdk: 5c8bfe76f4090cb7c1feb35c8dae4bde6c3d41fd
 
 PODFILE CHECKSUM: 8aac5f8d53fe739175c326a78ec41c436184e804
 

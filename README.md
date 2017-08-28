@@ -22,7 +22,7 @@ pod "SafechargePP_ios_sdk"
 
 ## Author
 
-miroslavch@safecharge.com, miroslavch@safecharge.com
+miroslavch@safecharge.com
 
 ## License
 

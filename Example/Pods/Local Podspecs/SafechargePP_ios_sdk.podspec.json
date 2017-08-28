@@ -1,9 +1,9 @@
 {
   "name": "SafechargePP_ios_sdk",
   "version": "0.1.0",
-  "summary": "A short description of SafechargePP_ios_sdk.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/miroslavch@safecharge.com/SafechargePP_ios_sdk",
+  "summary": "iOS native framework which is used to integrate Safecharge Payment page.",
+  "description": "SafeCharge PPP SDK provides easy use and integrate payments in any application targeted for IOS.",
+  "homepage": "https://github.com/miroslavch/safecharge_ppp_ios_sdk.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
