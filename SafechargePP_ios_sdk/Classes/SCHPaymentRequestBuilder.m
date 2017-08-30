@@ -313,7 +313,7 @@
         PKPaymentSummaryItem *newItem = [PKPaymentSummaryItem summaryItemWithLabel:titlePtr
                                                                             amount:[[NSDecimalNumber alloc] initWithDouble:total_amount]
                                                                               type:PKPaymentSummaryItemTypeFinal];
-                
+        
         [result addObject:newItem];
     }];
     
